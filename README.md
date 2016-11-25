@@ -1,6 +1,8 @@
 # Zerg zwo Converter
 ERG/MRC to Zwift Workout File, based on code posted to this blog https://fukawitribe.wordpress.com/2015/12/15/zerg-ergmrc-to-zwift-workout-file/
 
+http://kb.zwiftriders.com/book/export/html/53
+
 # ZWO Tag Syntax Documentation
 In an effort to better understand the format that is needed for Zwift to correctly accept the files this script creates, here is some reverse engineered documentation.
 
