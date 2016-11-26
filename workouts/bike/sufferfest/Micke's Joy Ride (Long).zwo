@@ -1,0 +1,50 @@
+<workout_file>
+    <author>M.Jonsson</author>
+    <name>Micke's Joy Ride (Long)</name>
+    <description>Sweet Spot, intervals and two free ride all in one.
+A great workout that puts a grin on youre face, blood in Your thighs and holy water on the floor :-)
+Try to be comfortable with one gear and stick to it through the workout.
+
+v.1.0. Based on Micke's Joy Ride (Medium).
+
+Made by Mikael Jonsson, Sweden.
+</description>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.40450001" PowerHigh="0.70449996"/>
+        <SteadyState Duration="30.000002" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="120" PowerOnLow="0.97449994" PowerOnHigh="0.97449994" PowerOffLow="0.87449998" PowerOffHigh="0.87449998" OverUnder="1"/>
+        <SteadyState Duration="30.000002" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="180" OffDuration="180" PowerOnLow="0.90449995" PowerOnHigh="0.90449995" PowerOffLow="0.80449992" PowerOffHigh="0.80449992" OverUnder="1"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <FreeRide Duration="420" FlatRoad="1">
+            <textevent timeoffset="15" message="Some Free Ride"/>
+            <textevent timeoffset="30" message="Go hard... Go easy... Do what U want..."/>
+        </FreeRide>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <SteadyState Duration="420" PowerLow="0.75449997" PowerHigh="0.75449997"/>
+        <SteadyState Duration="360" PowerLow="0.85449994" PowerHigh="0.85449994"/>
+        <SteadyState Duration="300" PowerLow="0.95449996" PowerHigh="0.95449996"/>
+        <SteadyState Duration="360" PowerLow="0.85449994" PowerHigh="0.85449994"/>
+        <SteadyState Duration="420" PowerLow="0.75449997" PowerHigh="0.75449997"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <FreeRide Duration="420" FlatRoad="1">
+            <textevent timeoffset="15" message="Same procedur as last time Minion"/>
+        </FreeRide>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <IntervalsT Repeat="2" OnDuration="120" OffDuration="135" PowerOnLow="0.97449994" PowerOnHigh="0.97449994" PowerOffLow="0.87449998" PowerOffHigh="0.87449998" OverUnder="1"/>
+        <IntervalsT Repeat="2" OnDuration="180" OffDuration="180" PowerOnLow="0.90449995" PowerOnHigh="0.90449995" PowerOffLow="0.80449992" PowerOffHigh="0.80449992" OverUnder="1"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1544999" PowerOnHigh="1.1544999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <Cooldown Duration="240" PowerLow="0.6045" PowerHigh="0.40450001"/>
+    </workout>
+</workout_file>

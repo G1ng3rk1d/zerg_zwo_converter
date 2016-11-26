@@ -1,0 +1,42 @@
+<workout_file>
+    <author>M.Jonsson</author>
+    <name>Micke's Joy Ride (Short)</name>
+    <description>Sweet Spot &amp; intervals all in one.
+A great workout that puts a smile on youre face :-)
+Try to be comfortable with one gear and stick to it through the workout.
+
+Based on Workout made by P.Adolfsson
+
+Made by Mikael Jonsson, Sweden.
+</description>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.39019388" PowerHigh="0.70449996"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1044999" PowerOnHigh="1.1044999" PowerOffLow="0.60753685" PowerOffHigh="0.60753685"/>
+        <SteadyState Duration="120" PowerLow="0.97449994" PowerHigh="0.97449994"/>
+        <SteadyState Duration="120" PowerLow="0.87640429" PowerHigh="0.87640429"/>
+        <SteadyState Duration="120" PowerLow="0.9757517" PowerHigh="0.9757517"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.3045" PowerOnHigh="1.3045" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <SteadyState Duration="120.64954" PowerLow="0.97240037" PowerHigh="0.97240037"/>
+        <SteadyState Duration="120" PowerLow="0.87449998" PowerHigh="0.87449998"/>
+        <SteadyState Duration="120" PowerLow="0.97449994" PowerHigh="0.97449994"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.4044999" PowerOnHigh="1.4044999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <SteadyState Duration="120" PowerLow="0.96721512" PowerHigh="0.96721512"/>
+        <SteadyState Duration="120" PowerLow="0.87126005" PowerHigh="0.87126005"/>
+        <SteadyState Duration="120" PowerLow="0.97992951" PowerHigh="0.97992951"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.3045" PowerOnHigh="1.3045" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <SteadyState Duration="120" PowerLow="0.97503728" PowerHigh="0.97503728"/>
+        <SteadyState Duration="120" PowerLow="0.87449998" PowerHigh="0.87449998"/>
+        <SteadyState Duration="120" PowerLow="0.9750371" PowerHigh="0.9750371"/>
+        <SteadyState Duration="30" PowerLow="0.6045" PowerHigh="0.6045"/>
+        <IntervalsT Repeat="3" OnDuration="30" OffDuration="30" PowerOnLow="1.1044999" PowerOnHigh="1.1044999" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <Cooldown Duration="269" PowerLow="0.6045" PowerHigh="0.39449999"/>
+    </workout>
+</workout_file>

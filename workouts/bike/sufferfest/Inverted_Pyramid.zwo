@@ -1,0 +1,31 @@
+<workout_file>
+    <author> .MRBaldi Coaching</author>
+    <name>Inverted Pyramid</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.50449997" PowerHigh="0.80449992">
+            <textevent timeoffset="570" message="Get ready to launch your attack @ max power"/>
+        </Warmup>
+        <SteadyState Duration="33" PowerLow="2.0044999" PowerHigh="2.0044999"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="120.00001" PowerLow="1.25" PowerHigh="1.25"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="240.00002" PowerLow="1.0944999" PowerHigh="1.0944999"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="360.00003" PowerLow="0.95449996" PowerHigh="0.95449996"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="360.00003" PowerLow="0.95449996" PowerHigh="0.95449996"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="240.00002" PowerLow="1.0944999" PowerHigh="1.0944999"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="120.00001" PowerLow="1.2544999" PowerHigh="1.2544999"/>
+        <SteadyState Duration="120.00001" PowerLow="0.50449997" PowerHigh="0.50449997">
+            <textevent timeoffset="90.000008" message="Get ready to sprint to the finish line!"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" PowerLow="2.0044999" PowerHigh="2.0044999"/>
+        <Cooldown Duration="360.00003" PowerLow="0.50449997" PowerHigh="0.25"/>
+    </workout>
+</workout_file>

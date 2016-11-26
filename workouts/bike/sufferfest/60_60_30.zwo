@@ -1,0 +1,26 @@
+<workout_file>
+    <author>F.Asloth</author>
+    <name>60:60 x30</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" PowerLow="0.43783355" PowerHigh="0.43783355"/>
+        <SteadyState Duration="120" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <SteadyState Duration="120" PowerLow="0.57672215" PowerHigh="0.57672215"/>
+        <SteadyState Duration="120" PowerLow="0.64894402" PowerHigh="0.64894402"/>
+        <SteadyState Duration="120" PowerLow="0.71561092" PowerHigh="0.71561092"/>
+        <SteadyState Duration="120" PowerLow="0.79894429" PowerHigh="0.79894429"/>
+        <SteadyState Duration="150" PowerLow="0.97449994" PowerHigh="0.97449994"/>
+        <SteadyState Duration="300" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2545005" PowerOnHigh="1.2545005" PowerOffLow="0.6044997" PowerOffHigh="0.6044997"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2544999" PowerOnHigh="1.2544999" PowerOffLow="0.60449976" PowerOffHigh="0.60449976"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2544997" PowerOnHigh="1.2544997" PowerOffLow="0.60449976" PowerOffHigh="0.60449976"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2545004" PowerOnHigh="1.2545004" PowerOffLow="0.6045" PowerOffHigh="0.6045"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2545002" PowerOnHigh="1.2545002" PowerOffLow="0.60449976" PowerOffHigh="0.60449976"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" PowerOnLow="1.2544999" PowerOnHigh="1.2544999" PowerOffLow="0.60449976" PowerOffHigh="0.60449976"/>
+        <IntervalsT Repeat="6" OnDuration="60" OffDuration="60" PowerOnLow="1.2544999" PowerOnHigh="1.2544999" PowerOffLow="0.6044997" PowerOffHigh="0.6044997"/>
+        <Cooldown Duration="300" PowerLow="0.50449997" PowerHigh="0.50449997"/>
+    </workout>
+</workout_file>

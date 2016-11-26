@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>For developing incredible brute strength through low-cadence climbs.
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Power Station
+</name>
+    <workout>
+        <SteadyState Duration="20" PowerLow="0.55" PowerHigh="0.55">
+          	<textevent timeoffset="0" message="Have you paused SF Power Station at 20 secs?"/>
+          	<textevent timeoffset="10" message="Unpause video at the upcoming arch"/>
+	</SteadyState>
+	<Warmup Duration="132" PowerHigh="0.500" PowerLow="0.650"/>
+        <SteadyState Duration="119.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="90.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="96.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="61.0" PowerHigh="0.790" PowerLow="0.790"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="80.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="30.0" PowerHigh="0.790" PowerLow="0.790"/>
+        <SteadyState Duration="39.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="11.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="11.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="59.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="33.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="120.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="25.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="6.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="29.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="21.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="8.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="26.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="27.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="12.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="27.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="29.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="91.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="90.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="89.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="119.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="59.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="61.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="180.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="120.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="30.0" PowerHigh="1.150" PowerLow="1.150"/>
+        <SteadyState Duration="61.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="29.0" PowerHigh="1.150" PowerLow="1.150"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="90.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="40.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="41.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="39.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="61.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="70.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="62.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="25.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="23.0" PowerHigh="1.150" PowerLow="1.150"/>
+        <SteadyState Duration="273.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="20" PowerLow="0.550" PowerHigh="0.550">
+          	<textevent timeoffset="0" message="How do you feel?"/>
+          	<textevent timeoffset="10" message="Welcome to Sufferlandria!"/>
+	</SteadyState>
+	<Cooldown Duration="13.0" PowerHigh="0.560" PowerLow="0.500"/>
+    </workout>
+</workout_file>
+

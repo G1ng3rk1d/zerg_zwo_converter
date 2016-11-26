@@ -1,0 +1,61 @@
+<workout_file>
+    <author>T.Cole</author>
+    <name>Pre-race 20-min Warm Up</name>
+    <description>This workout is based on the British Cycling 20-minute warm up. It's ideal preparation before a race, and will get your legs spinning and ready for an a sustained effort, or an all-out sprint for the finish-line!
+
+Time: 20 minutes
+Warm-up: n/a
+Ride: Cadences to be followed in the ride guide
+
+Search "British Cycing 20-minute warm up" for the official version.</description>
+    <tags>
+        <tag name="RECOVERY"/>
+        <tag name="Warm-up"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="60.000004" PowerLow="0.40581989" PowerHigh="0.40581989">
+            <textevent timeoffset="5.9999914" message="Cadence: 90rpm, smooth pedalling"/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" PowerLow="0.50449997" PowerHigh="0.50449997">
+            <textevent timeoffset="-4084.8572" message=""/>
+        </SteadyState>
+        <SteadyState Duration="60.000004" PowerLow="0.57463688" PowerHigh="0.57463688"/>
+        <SteadyState Duration="120.00001" PowerLow="0.62449998" PowerHigh="0.62449998"/>
+        <SteadyState Duration="120.00001" PowerLow="0.70449996" PowerHigh="0.70449996">
+            <textevent timeoffset="3.0000315" message="Cadence: 95rpm, smooth pedalling"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" PowerLow="0.81449997" PowerHigh="0.81449997">
+            <textevent timeoffset="0" message="Cadence: 100rpm, smooth pedalling"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" PowerLow="0.92449993" PowerHigh="0.92449993">
+            <textevent timeoffset="4.9999576" message="Cadence: 105rpm, smooth pedalling"/>
+        </SteadyState>
+        <SteadyState Duration="90.000008" PowerLow="1.0044999" PowerHigh="1.0044999">
+            <textevent timeoffset="5.999783" message="Cadence: 110rpm, smooth pedalling"/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" PowerLow="1.0845" PowerHigh="1.0845">
+            <textevent timeoffset="3.0000317" message="Cadence: 120-130rpm, Maintain form"/>
+        </SteadyState>
+        <SteadyState Duration="120.00001" PowerLow="0.70449996" PowerHigh="0.70449996">
+            <textevent timeoffset="2.000067" message="Cadence: 90rpm, relax and recover"/>
+            <textevent timeoffset="89.999939" message="Coming up..."/>
+            <textevent timeoffset="105.00011" message="3x 150rpm, intense efforts..."/>
+        </SteadyState>
+        <SteadyState Duration="10" PowerLow="1.3045" PowerHigh="1.3045"/>
+        <SteadyState Duration="60.000004" PowerLow="0.66557068" PowerHigh="0.66557068">
+            <textevent timeoffset="0" message="Cadence: 90rpm, relax and recover"/>
+        </SteadyState>
+        <SteadyState Duration="10" PowerLow="1.3045" PowerHigh="1.3045"/>
+        <SteadyState Duration="60.000004" PowerLow="0.66575432" PowerHigh="0.66575432">
+            <textevent timeoffset="1.0001036" message="Cadence: 90rpm, relax and recover"/>
+        </SteadyState>
+        <SteadyState Duration="10" PowerLow="1.3062958" PowerHigh="1.3062958"/>
+        <SteadyState Duration="100.00001" PowerLow="0.64449996" PowerHigh="0.64449996">
+            <textevent timeoffset="1.8835937" message="Cadence: 90rpm, relax and recover"/>
+        </SteadyState>
+        <SteadyState Duration="45.000004" PowerLow="0.56449997" PowerHigh="0.56449997">
+            <textevent timeoffset="35.932892" message="Ride on!"/>
+            <textevent timeoffset="2.9412344" message="Nice! You&apos;re ready to race!"/>
+        </SteadyState>
+    </workout>
+</workout_file>

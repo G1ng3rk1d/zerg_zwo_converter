@@ -1,0 +1,35 @@
+<workout_file>
+    <author>Gingerk1d</author>
+    <name>20/02/2016</name>
+    <description></description>
+    <tags/>
+    <workout>
+        <Warmup Duration="1200" PowerLow="0.25190678" PowerHigh="0.75190675"/>
+        <SteadyState Duration="180" Power="1.0944999"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81449997"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81122881"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81122881"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81449997"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81122881"/>
+        <SteadyState Duration="120" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81122881"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81122881"/>
+        <SteadyState Duration="180" Power="1.0993644"/>
+        <SteadyState Duration="60" Power="0.95449996"/>
+        <SteadyState Duration="120" Power="0.81449997"/>
+        <IntervalsT Repeat="4" OnDuration="60" OffDuration="60" OnPower="1.0944999" OffPower="0.81449997"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.2545"/>
+    </workout>
+</workout_file>
