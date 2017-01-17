@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> Aerobic Endurance Interval  (1x60m)
+</description>
+    <name> Aerobic Endurance Interval  (1x60m).mrc
+</name>
+    <workout>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="180.0" PowerHigh="0.700" PowerLow="0.700"/>
+        <SteadyState Duration="180.0" PowerHigh="0.640" PowerLow="0.640"/>
+        <SteadyState Duration="180.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="180.0" PowerHigh="0.680" PowerLow="0.680"/>
+        <SteadyState Duration="180.0" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="120.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="180.0" PowerHigh="0.680" PowerLow="0.680"/>
+        <SteadyState Duration="60.0" PowerHigh="0.700" PowerLow="0.700"/>
+        <SteadyState Duration="180.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="120.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="60.0" PowerHigh="0.710" PowerLow="0.710"/>
+        <SteadyState Duration="180.0" PowerHigh="0.690" PowerLow="0.690"/>
+        <SteadyState Duration="60.0" PowerHigh="0.700" PowerLow="0.700"/>
+        <SteadyState Duration="180.0" PowerHigh="0.680" PowerLow="0.680"/>
+        <SteadyState Duration="120.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="180.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="120.0" PowerHigh="0.780" PowerLow="0.780"/>
+        <SteadyState Duration="180.0" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="120.0" PowerHigh="0.800" PowerLow="0.800"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="180.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="60.0" PowerHigh="0.730" PowerLow="0.730"/>
+        <SteadyState Duration="300.0" PowerHigh="0.500" PowerLow="0.500"/>
+    </workout>
+</workout_file>
+
