@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> Conditioning 3.2 - 1.02
+</description>
+    <name> Conditioning 3.2 - 1.02.mrc
+</name>
+    <workout>
+        <Warmup Duration="600.0" PowerHigh="0.600" PowerLow="0.450"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="60.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="300.0" PowerHigh="0.760" PowerLow="0.760"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="300.0" PowerHigh="0.760" PowerLow="0.760"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="180.0" PowerHigh="0.860" PowerLow="0.860"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="180.0" PowerHigh="0.860" PowerLow="0.860"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+    </workout>
+</workout_file>
+

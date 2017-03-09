@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> X3 Z4-4 Sweet Spot 2 - Pyramids
+</description>
+    <name> X3 Z4-4 Sweet Spot 2 - Pyramids.mrc
+</name>
+    <workout>
+        <Warmup Duration="300.0" PowerHigh="0.650" PowerLow="0.500"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="120.0" PowerHigh="0.930" PowerLow="0.930"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="120.0" PowerHigh="0.930" PowerLow="0.930"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="120.0" PowerHigh="0.930" PowerLow="0.930"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="120.0" PowerHigh="0.930" PowerLow="0.930"/>
+        <SteadyState Duration="75.0" PowerHigh="0.920" PowerLow="0.920"/>
+        <SteadyState Duration="75.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="75.0" PowerHigh="0.880" PowerLow="0.880"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="420.0" PowerHigh="0.400" PowerLow="0.400"/>
+    </workout>
+</workout_file>
+
