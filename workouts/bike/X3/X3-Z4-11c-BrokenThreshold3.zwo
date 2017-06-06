@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> X3 Z4-11c Broken Threshold 3
+</description>
+    <name> X3 Z4-11c Broken Threshold 3.mrc
+</name>
+    <workout>
+        <Warmup Duration="300.0" PowerHigh="0.650" PowerLow="0.500"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="0.700" PowerLow="0.700"/>
+        <SteadyState Duration="60.0" PowerHigh="0.800" PowerLow="0.800"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.990" PowerLow="0.990"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.010" PowerLow="1.010"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.990" PowerLow="0.990"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.010" PowerLow="1.010"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.990" PowerLow="0.990"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.010" PowerLow="1.010"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="20.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="1.030" PowerLow="1.030"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <Cooldown Duration="420.0" PowerHigh="0.400" PowerLow="0.500"/>
+    </workout>
+</workout_file>
+
