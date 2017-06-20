@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> X3 Z4 Force 1 - 5x5 Low Cadence
+</description>
+    <name> X3 Z4 Force 1 - 5x5 Low Cadence.mrc
+</name>
+    <workout>
+        <Warmup Duration="300.0" PowerHigh="0.650" PowerLow="0.500"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="0.700" PowerLow="0.700"/>
+        <SteadyState Duration="60.0" PowerHigh="0.800" PowerLow="0.800"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="120.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="300.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="300.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="300.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="300.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="300.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="420.0" PowerHigh="0.400" PowerLow="0.400"/>
+    </workout>
+</workout_file>
+
