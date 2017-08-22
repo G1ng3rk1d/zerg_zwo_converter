@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> X3 Z5-13 VO2 1s + NM - PRE RACE
+</description>
+    <name> X3 Z5-13 VO2 1s + NM - PRE RACE.mrc
+</name>
+    <workout>
+        <SteadyState Duration="300.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <Warmup Duration="90.0" PowerHigh="0.650" PowerLow="0.500"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="60.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="60.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="1.500" PowerLow="1.500"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="60.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="360.0" PowerHigh="0.400" PowerLow="0.400"/>
+    </workout>
+</workout_file>
+
